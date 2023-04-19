@@ -1,0 +1,35 @@
+.navbar-fixed { 
+
+    height: 100px;
+}
+
+.navbar { font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;}
+
+
+
+.nav-link-active:hover {
+    color: 	#8547cc!important;
+    }
+
+    .navbar-nav > li{
+        padding-left: 10px;
+
+      }
+
+    .odebb >li{
+        padding-left: 100px;
+        text-align: right;
+    }
+
+.img {
+    position:absolute ;
+}
+
+
+ .px3 {
+    padding-top: 1000px;
+ }
+
+ .kartya {
+    padding-right: 100px;
+ }
